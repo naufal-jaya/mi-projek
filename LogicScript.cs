@@ -7,6 +7,7 @@ public class LogicScript : MonoBehaviour
     public int playerScore;
     public Text scoreText;
     public GameObject gameOverScreen;
+    public int naufal;
 
     [ContextMenu("Add Score")]
     public void addScore()
